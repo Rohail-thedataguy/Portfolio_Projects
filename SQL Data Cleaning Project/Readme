@@ -1,4 +1,4 @@
-This project involved cleaning a large dataset of customer orders to prepare it for further analysis. 
+This project involved cleaning a large dataset of layoffs to prepare it for further analysis. 
 - Tools used: SQL (MySQL)
 - Key tasks: Data cleaning, handling missing values, outlier detection, and aggregation.
 - Results: Improved data accuracy and reduced inconsistencies, which will enable more reliable business insights.
