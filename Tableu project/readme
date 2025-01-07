@@ -1,0 +1,15 @@
+British Airways Review Analysis
+
+This project involves analyzing customer reviews of British Airways' services to understand satisfaction levels and identify areas for improvement. Using Tableau, I created interactive visualizations that provide insights into various aspects of the customer experience, including seat comfort, cabin staff service, food quality, and overall satisfaction.
+
+Objective
+The goal of this project was to visualize customer reviews and identify trends in satisfaction across various factors, helping British Airways and other stakeholders make data-driven decisions to improve their services.
+
+Key Features
+Data Analysis: Focused on analyzing customer feedback for various factors like service quality and flight routes.
+Interactive Dashboards: Developed dynamic visualizations with Tableau to explore trends in customer reviews by different metrics, such as region, seat type, and travel class.
+Insights: Provided actionable insights into how customer satisfaction varies over time and across different routes and services.
+
+Tools Used
+Tableau: For creating interactive visualizations and dashboards.
+Data: The dataset contains reviews and ratings for British Airways services, including factors like seat comfort, cabin staff service, and more.
